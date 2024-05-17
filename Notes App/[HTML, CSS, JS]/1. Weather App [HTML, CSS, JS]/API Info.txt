@@ -1,0 +1,9 @@
+Account: vinay.courses.official@gmail.com
+Password: Q****@5******
+https://home.openweathermap.org/api_keys
+
+Default Key: 218948ffb63c1a4e04a545dccfafc95d
+Key1 [Generated Key]: 210786d3ed52f6bb8f1142704f1597d3
+
+API Call format [Link: https://openweathermap.org/current]:
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}&units=metric
