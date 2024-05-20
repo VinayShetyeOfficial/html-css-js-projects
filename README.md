@@ -7,32 +7,32 @@ This repository contains a collection of mini projects I've developed using HTML
 
 ## Projects
 
-- **Age Calculator App
-- **Calculator App
-- **Circular Progress Bar
-- **Cryptocurrency Website Design
-- **Dark Mode
-- **Digital Clock
-- **Drag & Drop
-- **Email Subsciption
-- **Form Validation
-- **Hide Show Password
-- **Image Background Change Effect
-- **Image Gallery
-- **Image Search
-- **Music Player App
-- **Notes App
-- **Popup
-- **QR Code Generator App
-- **Quiz App
-- **Quote App
-- **Random Password Generator App
-- **Select Menu Design
-- **Show Password Strength
-- **Stop Watch
-- **Text To Speech Generator
-- **ToDo List App
-- **Weather App
+- **Age Calculator App**
+- **Calculator App**
+- **Circular Progress Bar**
+- **Cryptocurrency Website Design**
+- **Dark Mode**
+- **Digital Clock**
+- **Drag & Drop**
+- **Email Subsciption**
+- **Form Validation**
+- **Hide Show Password**
+- **Image Background Change Effect**
+- **Image Gallery**
+- **Image Search**
+- **Music Player App**
+- **Notes App**
+- **Popup**
+- **QR Code Generator App**
+- **Quiz App**
+- **Quote App**
+- **Random Password Generator App**
+- **Select Menu Design**
+- **Show Password Strength**
+- **Stop Watch**
+- **Text To Speech Generator**
+- **ToDo List App**
+- **Weather App**
 
 ## Installation
 
