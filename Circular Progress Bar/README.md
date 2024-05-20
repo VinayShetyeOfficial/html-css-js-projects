@@ -1,4 +1,3 @@
-<<<<<<< HEAD:Circular Progress Bar/README.md
 # Title
 ![Image](img_link)
 
