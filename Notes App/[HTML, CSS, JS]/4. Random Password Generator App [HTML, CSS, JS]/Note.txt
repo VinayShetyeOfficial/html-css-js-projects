@@ -1,2 +1,0 @@
-How To Generate a Random Password Using JavaScript | Password Generator JavaScript Project
-https://youtu.be/Xrsb9SiF3a8
