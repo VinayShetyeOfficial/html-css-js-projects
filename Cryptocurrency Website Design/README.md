@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Title
 ![Image](img_link)
 
