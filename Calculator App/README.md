@@ -1,4 +1,4 @@
-<<<<<<< HEAD:Calculator App/README.md
+
 # Calculator App
 ![CalculatorApp](https://github.com/VinayShetyeOfficial/Html_Css_JS_Projects/assets/100470361/d5d5a6ab-6d85-4bcd-8e5b-3a108031a975)
 
