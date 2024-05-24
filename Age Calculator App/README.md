@@ -14,7 +14,10 @@ This Age Calculator App allows users to calculate their age in years, months, an
 - **Real-time Calculation**: Instantly see the results as you input your date of birth and click the `Calculate` button.
 
 ## Installation
-To use the app, clone or download the repository and open the `index.html` file in your preferred web browser.
+To set up the website on your local machine:
+1. Clone or download this repository.
+2. Navigate to the project directory.
+3. Open the `index.html` file in a web browser to view the website.
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
