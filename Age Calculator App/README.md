@@ -6,7 +6,7 @@
 Live Site URL: [Preview](https://66481dbd977ec678d0151ffb--subtle-tarsier-d1b32d.netlify.app/)
 
 ## Description
-This Age Calculator App allows users to calculate their age in years, months, and days. This app is developed with HTML, CSS, and JavaScript, it's responsive and provides a user-friendly experience.
+This **Age Calculator App** allows users to calculate their age in years, months, and days. This app is developed with HTML, CSS, and JavaScript, it's responsive and provides a user-friendly experience.
 
 ## Features
 - **Easy-to-use**: Simply select your date of birth and the app calculates your age.
