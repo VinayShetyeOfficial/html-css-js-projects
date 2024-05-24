@@ -7,7 +7,7 @@
 Live Site URL: [Preview](https://bejewelled-chebakia-b55179.netlify.app/)
 
 ## Description
-This Calculator App is a straightforward, efficient tool for performing arithmetic operations. It's built with HTML, CSS, and JavaScript, offering a clean, user-friendly interface that's responsive across all devices.
+This `Calculator App` is a straightforward, efficient tool for performing arithmetic operations. It's built with HTML, CSS, and JavaScript, offering a clean, user-friendly interface that's responsive across all devices.
 
 ## Features
 - **Arithmetic Operations**: Perform addition, subtraction, multiplication, and division.
@@ -15,7 +15,10 @@ This Calculator App is a straightforward, efficient tool for performing arithmet
 - **Responsive Layout**: Compatible with desktop, tablet, and mobile screens.
 
 ## Installation
-To use the app, clone or download the repository and open the `index.html` file in your preferred web browser.
+To set up the website on your local machine:
+1. Clone or download this repository.
+2. Navigate to the project directory.
+3. Open the `index.html` file in a web browser to view the website.
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
