@@ -1,8 +1,8 @@
-# Web Projects
+# 🌐 Web Projects Collection
+
+A comprehensive portfolio of mini web applications showcasing front-end development skills using HTML, CSS, and JavaScript.
+
 ![main-qimg-38ab64bcbaaf4bedbd755eb70ce0bdac](https://github.com/VinayShetyeOfficial/Html_Css_JS_Projects/assets/100470361/18c255b2-4047-4407-8100-21410d74a347)
-
-
-This repository contains a collection of mini projects I've developed using HTML, CSS, and JavaScript to stay up-to-date with my front-end development practices.
 
 
 ## Projects
